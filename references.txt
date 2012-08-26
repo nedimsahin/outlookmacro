@@ -1,0 +1,7 @@
+http://www.vogella.com/articles/MicrosoftOutlookMacros/article.html
+http://blogs.msdn.com/b/robert_mcmurray/archive/2010/02/25/outlook-macros-part-1-moving-emails-into-personal-folders.aspx
+http://en.kioskea.net/faq/6174-outlook-a-macro-to-create-folders
+http://www.rondebruin.nl/mail/folder2/saveatt.htm
+http://www.vb-helper.com/howto_excel_write.html
+http://www.excelfunctions.net/VBA-Functions-And-Subroutines.html
+http://www.techonthenet.com/excel/formulas/index_ws.php
